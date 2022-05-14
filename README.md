@@ -2,9 +2,17 @@
 Capture unrecognized _Utterances_
 
 ## About
-Mycroft doesn't know how to do or answer everything (yet).  This _fallback_ is how Mycroft lets you know that, unfortunately, it can't help with what you said.
+Alternative to the default fallback unknown skill of Mycroft AI, that lets Mycroft speak a funny insult instead of the default five sentences (that are always the same and a bit boring). For now only available in German
 
-But wait, there is still hope!  Mycroft is working to get smarter with help from friends.  For who have selected to [Opt In to the Open Dataset](https://home.mycroft.ai/#/setting/basic#opendataset), these missed phrases are aggregated and analyzed to help identify what the world _wants_ their voice assistant to do that it can't yet.  So if millions of people start asking for guava growing tips, we'll promote this as an idea to be handled as a default Skill.
+I've tried to remove every non appropriate and explicit content (although this is difficult with insultions) so please don't be offended by any insultions you find here (that's not my goal ;).
+
+## Sources of insultions
+Swear words:
+* https://www.sprachnudel.de/kategorie/beleidigungen
+
+Insults:
+* https://1001sprueche.com/beleidigungen
+* https://www.inside-digital.de/ratgeber/lustige-beleidigungen-und-diss-sprueche-fuer-whatsapp
 
 ## Examples
 * "How do I make my guava blue?"
