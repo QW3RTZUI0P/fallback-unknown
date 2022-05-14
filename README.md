@@ -9,6 +9,7 @@ I've tried to remove every non appropriate and explicit content (although this i
 ## Sources of insultions
 Swear words:
 * https://www.sprachnudel.de/kategorie/beleidigungen
+* https://de.babbel.com/de/magazine/altmodische-beleidigungen
 
 Insults:
 * https://1001sprueche.com/beleidigungen

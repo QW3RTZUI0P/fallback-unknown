@@ -14,10 +14,9 @@ class UnknownSkill(FallbackSkill):
             return filter(bool, map(str.strip, f.read().split('\n')))
 
     def handle_fallback(self, message):
-
-        number = random.choice([0, 1, 2])
-        if number == 0:
-            self.speak_dialog('insultions')
+        boolean = random.choice([True, False, False])
+        if boolean:
+            self.speak_dialog('insults')
         else:
             self.speak_dialog('swear_words')
 
