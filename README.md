@@ -15,6 +15,12 @@ Insults:
 * https://1001sprueche.com/beleidigungen
 * https://www.inside-digital.de/ratgeber/lustige-beleidigungen-und-diss-sprueche-fuer-whatsapp
 
+Tongue twisters:
+* https://www.heilpaedagogik-info.de/zungenbrecher/287-zungenbrecher-deutsch-sprueche.html
+
+Sayings:
+* https://www.goldjahre.de/images/Sprichwoerter-raten-Goldjahre.pdf
+
 ## Examples
 * "How do I make my guava blue?"
 * "I need a pizza"

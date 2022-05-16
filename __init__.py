@@ -14,11 +14,16 @@ class UnknownSkill(FallbackSkill):
             return filter(bool, map(str.strip, f.read().split('\n')))
 
     def handle_fallback(self, message):
-        boolean = random.choice([True, False, False])
-        if boolean:
+        # through changing the frequency these numbers you can adjust the propability for the fallback sentences
+        number = random.choice([0, 0, 1, 1, 1, 2, 3, 3])
+        if number == 0:
             self.speak_dialog('insults')
-        else:
-            self.speak_dialog('swear_words')
+        elif number == 1:
+            self.speak_dialog('swear.words')
+        elif number == 2:
+            self.speak_dialog('tongue.twisters')
+        elif number == 3:
+            self.speak_dialog('sayings')
 
         return True
 
